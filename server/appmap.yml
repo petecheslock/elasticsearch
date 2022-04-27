@@ -1,0 +1,4 @@
+# 'name' should generally be the same as the code repo name.
+name: Elasticsearch
+packages:
+- path: org.elasticsearch
